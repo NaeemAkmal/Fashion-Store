@@ -373,7 +373,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Naeem Akmal** - *Lead Developer*
 - GitHub: [@NaeemAkmal](https://github.com/NaeemAkmal)
 - Email: naeemakmaltts15@gmail.com
-- LinkedIn: [Naeem Akmal](https://linkedin.com/in/naeem-akmal)
+- LinkedIn: [Naeem Akmal](https://www.linkedin.com/in/naeem-akmal-483282306/)
 
 ## 🙏 Acknowledgments
 
